@@ -1,6 +1,6 @@
 name: pythontestactions
 
-on: [push]
+on: push
 
 jobs:
   build:
